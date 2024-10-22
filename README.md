@@ -40,6 +40,9 @@ PHP 5.5 o superior.
 
 Conexión a Internet para descargar dependencias (Composer).
 
+Para ver la pagina, escribir en la web => http://localhost/tienda-virtual/
+
+
 
 ## Conclusión
 
